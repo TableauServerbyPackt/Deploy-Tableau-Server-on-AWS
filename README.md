@@ -1,4 +1,4 @@
-# quickstart-tableau-server
+
 ## Tableau Server on the AWS Cloud
 
 This Quick Start helps you deploy a fully functional Tableau Server environment on the AWS Cloud, following best practices from AWS and Tableau Software. 
